@@ -1,0 +1,55 @@
+<resources>
+    <!--Common-->
+    <string name="setting">SETTINGS</string>
+    <string name="api_retry_error">Please retry!</string>
+    <string name="api_default_error">Something wrong happened!</string>
+    <string name="some_error">Some error occurred!</string>
+    <string name="connection_error">No internet connection!</string>
+    <string name="submit">submit</string>
+    <string name="success_title">SUCCESS</string>
+    <string name="logout_title">LOGOUT</string>
+    <string name="exit_title">EXIT</string>
+    <string name="empty">Empty</string>
+    <string name="delete_title">DELETE</string>
+
+    <!--Permission rational messages-->
+    <string name="permission_title">PERMISSION</string>
+    <string name="permission_rational">Please allow permission to process the next step</string>
+
+    <!--Permission denied messages-->
+    <string name="permission_read_sms_denied">The app is needed Read SMS permission to reads SMS from your phone. Please allow it!</string>
+
+    <!--Production-->
+    <string name="app_market_link">http://</string>
+    <string name="app_google_play_store_link">http://</string>
+
+    <!--Message-->
+    <string name="message_save_to_server_success">Messages saved to server successfully</string>
+    <string name="message_download_started">Download started</string>
+    <string name="message_copied">Message copied</string>
+    <string name="message_user_id_is_not_correct">The ID is not correct. Please try again!</string>
+    <string name="message_user_id_empty">Please fill in your ID</string>
+    <string name="message_deleted_messages_success">All the messages on server deleted successfully</string>
+    <string name="message_ask_delete_data_confirm">Are you sure you want to delete all the messages on the server?</string>
+
+    <!--Format-->
+    <string name="message_saved_to_format">Messages saved to: %s</string>
+    <string name="last_sync_format">Last sync: %s</string>
+
+
+    <!--Hints-->
+    <string name="hint_user_id">USER ID</string>
+
+    <!--Validation-->
+
+    <!--Launch-->
+
+    <!--Main-->
+    <string name="sync_to_server">Sync To Server</string>
+    <string name="down_load_from_server">Download</string>
+    <string name="delete_all">Delete all</string>
+
+    <!--Login-->
+    <string name="login">Log In</string>
+
+</resources>

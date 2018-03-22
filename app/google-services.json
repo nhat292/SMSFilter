@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "46273188105",
+    "firebase_url": "https://smsfilter-db.firebaseio.com",
+    "project_id": "smsfilter-db",
+    "storage_bucket": "smsfilter-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46273188105:android:8f175245e19ec160",
+        "android_client_info": {
+          "package_name": "com.hoaianh.smsfilter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46273188105-7sqghe0u6b99f6o4sov52cgocpl5tagb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUFVvFQZeZMBCA8dEjynAr8czmicWTNY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

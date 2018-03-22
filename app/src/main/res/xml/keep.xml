@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><!--If there are specific resources you wish to keep or discard,
+create an XML file in your project with a <resources> tag and specify each resource
+to keep in the tools:keep attribute and each resource to discard in the tools:discard attribute.
+Both attributes accept a comma-separated list of resource names. You can use the asterisk character as a wild card.-->
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:discard=""
+    tools:keep="" />
